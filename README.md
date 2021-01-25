@@ -1,10 +1,10 @@
-# Pre-work - Tippy
+# Pre-work - Tibby
 
-Tippy is a tip calculator application for iOS.
+Tibby is a tip calculator application for iOS.
 
 Submitted by: Dana Nguyen
 
-Time spent: 1 hour spent in total
+Time spent: 1 hour(s) spent in total
 
 ## User Stories
 
@@ -26,17 +26,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/Y8sN0O3.gif)
 
-<img src='https://imgur.com/a/6nWdSkV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-No challenges were encountered while building the app.
+No challenges encountered while building the app.
 
 ## License
 
-    Copyright 2021 Dana Nguyen
+    Copyright [2021] [Dana Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
